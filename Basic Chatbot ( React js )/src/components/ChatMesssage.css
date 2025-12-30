@@ -1,0 +1,27 @@
+.user-message {
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+    max-width: 700px;
+}
+
+.user-message>.text {
+    max-width: 300px;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(234, 234, 234);
+}
+
+.robot-message {
+    display: flex;
+    margin: 20px;
+}
+
+.robot-message>.text {
+    max-width: 50%;
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(234, 234, 234);
+}
