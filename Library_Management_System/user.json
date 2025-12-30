@@ -1,0 +1,145 @@
+[
+    {
+        "user_id": 72591,
+        "name": "Mushtaq",
+        "cnic": "1234567891111",
+        "borrowed_book": 10,
+        "b_book_name": [
+            [
+                "Java Programming Basics",
+                "James Gosling",
+                1
+            ],
+            [
+                "Data Structures and Algorithms",
+                "Robert Lafore",
+                1
+            ],
+            [
+                "Operating System Concepts",
+                "Abraham Silberschatz",
+                1
+            ],
+            [
+                "Computer Networks",
+                "Andrew S. Tanenbaum",
+                1
+            ],
+            [
+                "Database Management Systems",
+                "Raghu Ramakrishnan",
+                1
+            ],
+            [
+                "Artificial Intelligence",
+                "Stuart Russell",
+                1
+            ],
+            [
+                "Machine Learning",
+                "Tom M. Mitchell",
+                1
+            ],
+            [
+                "Software Engineering",
+                "Ian Sommerville",
+                1
+            ],
+            [
+                "Introduction to Python",
+                "Guido van Rossum",
+                1
+            ],
+            [
+                "Clean Code",
+                "Robert C. Martin",
+                1
+            ]
+        ]
+    },
+    {
+        "user_id": 72592,
+        "name": "Saad",
+        "cnic": "1357986420111",
+        "borrowed_book": 0,
+        "b_book_name": []
+    },
+    {
+        "user_id": 72593,
+        "name": "Hamza",
+        "cnic": "1111111111111",
+        "borrowed_book": 0,
+        "b_book_name": []
+    },
+    {
+        "user_id": 72594,
+        "name": "hello",
+        "cnic": "4444444444444",
+        "borrowed_book": 11,
+        "b_book_name": [
+            [
+                "Introduction to Python",
+                "Guido van Rossum",
+                2
+            ],
+            [
+                "Java Programming Basics",
+                "James Gosling",
+                1
+            ],
+            [
+                "Data Structures and Algorithms",
+                "Robert Lafore",
+                1
+            ],
+            [
+                "Operating System Concepts",
+                "Abraham Silberschatz",
+                1
+            ],
+            [
+                "Computer Networks",
+                "Andrew S. Tanenbaum",
+                1
+            ],
+            [
+                "Database Management Systems",
+                "Raghu Ramakrishnan",
+                1
+            ],
+            [
+                "Artificial Intelligence",
+                "Stuart Russell",
+                1
+            ],
+            [
+                "Machine Learning",
+                "Tom M. Mitchell",
+                1
+            ],
+            [
+                "Software Engineering",
+                "Ian Sommerville",
+                1
+            ],
+            [
+                "Clean Code",
+                "Robert C. Martin",
+                1
+            ]
+        ]
+    },
+    {
+        "user_id": 72595,
+        "name": "Mushtaq",
+        "cnic": "1234567890123",
+        "borrowed_book": 1,
+        "b_book_name": [
+            [
+                "Introduction to Python",
+                "Guido van Rossum",
+                1
+            ]
+        ]
+    }
+]

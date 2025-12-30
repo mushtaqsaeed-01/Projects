@@ -1,0 +1,72 @@
+[
+    {
+        "id": 62851,
+        "title": "Introduction to Python",
+        "author": "Guido van Rossum",
+        "no_of_copies": 10,
+        "available_copies": 6
+    },
+    {
+        "id": 62852,
+        "title": "Java Programming Basics",
+        "author": "James Gosling",
+        "no_of_copies": 8,
+        "available_copies": 6
+    },
+    {
+        "id": 62853,
+        "title": "Data Structures and Algorithms",
+        "author": "Robert Lafore",
+        "no_of_copies": 12,
+        "available_copies": 10
+    },
+    {
+        "id": 62854,
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "no_of_copies": 7,
+        "available_copies": 5
+    },
+    {
+        "id": 62855,
+        "title": "Computer Networks",
+        "author": "Andrew S. Tanenbaum",
+        "no_of_copies": 9,
+        "available_copies": 7
+    },
+    {
+        "id": 62856,
+        "title": "Database Management Systems",
+        "author": "Raghu Ramakrishnan",
+        "no_of_copies": 6,
+        "available_copies": 4
+    },
+    {
+        "id": 62857,
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell",
+        "no_of_copies": 5,
+        "available_copies": 3
+    },
+    {
+        "id": 62858,
+        "title": "Machine Learning",
+        "author": "Tom M. Mitchell",
+        "no_of_copies": 4,
+        "available_copies": 2
+    },
+    {
+        "id": 62859,
+        "title": "Software Engineering",
+        "author": "Ian Sommerville",
+        "no_of_copies": 11,
+        "available_copies": 9
+    },
+    {
+        "id": 62860,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "no_of_copies": 9,
+        "available_copies": 7
+    }
+]
